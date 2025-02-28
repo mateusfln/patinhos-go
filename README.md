@@ -14,15 +14,15 @@ Para rodar o código, você precisa de **Go** instalado na sua máquina. 🖥️
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/patinhos-da-lagoa.git
+    git clone https://github.com/mateusfln/patinhos-go.git
     ```
 2. Entre no diretório do repositório:
     ```bash
-    cd patinhos-da-lagoa
+    cd patinhos-go
     ```
 3. Execute o código em Go:
     ```bash
-    go run main.go
+    go run patinhos.go
     ```
 
 E voilà! 🎉 Você verá a música sendo cantada enquanto os patinhos vão passeando e voltando para casa. 🦆
@@ -70,21 +70,3 @@ Aqui está um exemplo da saída que você verá no seu terminal! 😆
  A mamãe gritou 'Quack Quack Quack Quack!',
  mas nenhum patinho voltou de lá.
 ```
-## 🚀 Como Rodar
-
-Para rodar o código, você precisa de **Go** instalado na sua máquina. 🖥️
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/patinhos-da-lagoa.git
-    ```
-2. Entre no diretório do repositório:
-    ```bash
-    cd patinhos-da-lagoa
-    ```
-3. Execute o código em Go:
-    ```bash
-    go run main.go
-    ```
-
-E voilà! 🎉 Você verá a música sendo cantada enquanto os patinhos vão passeando e voltando para casa. 🦆
